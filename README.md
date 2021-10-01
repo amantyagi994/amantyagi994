@@ -16,6 +16,10 @@ Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer
 <!-- 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255)
  -->
+ 
+ 
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/amantyagi994?label=follow&style=social)](https://github.com/amantyagi994)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic);
 
 <!--
 - 🔭 I’m currently working on ...
