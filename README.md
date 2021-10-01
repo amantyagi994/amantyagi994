@@ -1,8 +1,8 @@
 <img src="https://pbs.twimg.com/profile_banners/815455232192811013/1626892109/600x200">
 
 # Aman Tyagi
-
-
+### Front-end web developer | UI/UX Designer
+Hi👋 I'm Aman from India, and I'm a Front-end web developer | UI/UX Designer content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 <!--
 - 🔭 I’m currently working on ...
