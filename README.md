@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+<img src="https://pbs.twimg.com/profile_banners/815455232192811013/1626892109/600x200">
+
 <!--
-**amantyagi994/amantyagi994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+![](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
