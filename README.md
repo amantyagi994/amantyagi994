@@ -13,6 +13,8 @@ Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer
 - JavaScript
 
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,5 +25,8 @@ Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
  
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanyuagi994&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
