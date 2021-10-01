@@ -1,6 +1,8 @@
-### Hi there 👋
-
 <img src="https://pbs.twimg.com/profile_banners/815455232192811013/1626892109/600x200">
+
+# Aman Tyagi
+
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -13,4 +15,4 @@
 - ⚡ Fun fact: ...
 -->
  
-![](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
+
