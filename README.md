@@ -13,8 +13,9 @@ Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer
 - JavaScript
 
 
+<!-- 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255)
-
+ -->
 
 <!--
 - 🔭 I’m currently working on ...
