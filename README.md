@@ -2,7 +2,16 @@
 
 # Aman Tyagi
 ### Front-end web developer | UI/UX Designer
-Hi👋 I'm Aman from India, and I'm a Front-end web developer | UI/UX Designer content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer. I enjoy wireframing, ui, ux, and design.
+
+## SKills
+
+- Low to High fidelity wireframe, design & Prototyping
+- User Research
+- Figma, InVision, Marvel
+- HTML, CSS
+- JavaScript
+
 
 <!--
 - 🔭 I’m currently working on ...
