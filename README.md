@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/Twitter%20header%20-%201.png">
 
 # Aman Tyagi
-### Front-end web developer | UI/UX Designer
-#### from India 
+### Front-end web developer | UI/UX Designer from India
 
 ## SKills
 
