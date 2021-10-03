@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/815455232192811013/1626892109/600x200">
+<img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/Twitter%20header%20-%201.png">
 
 # Aman Tyagi
 ### Front-end web developer | UI/UX Designer
