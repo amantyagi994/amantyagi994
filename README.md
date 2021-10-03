@@ -37,12 +37,10 @@ Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amantyagi994&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>Recent GitHub Activity ⚡</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amantyagi994&custom_title=Aman__Tyagi's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
