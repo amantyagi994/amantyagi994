@@ -2,7 +2,7 @@
 
 # Aman Tyagi
 ### Front-end web developer | UI/UX Designer
-Hi👋 I'm Aman from India, and I'm a Front-end web developer and UI/UX Designer. I enjoy wireframing, ui, ux, and design.
+#### from India 
 
 ## SKills
 
