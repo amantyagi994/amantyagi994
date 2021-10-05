@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/Twitter%20header%20-%201.png">
+<img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/assets/Twitter%20header%20-%201.png">
 
 # Hellooo world! Welcome to Aman Tyagi's Github Profile
 
@@ -6,16 +6,18 @@
 
 ## SKills
 
-- Low to High fidelity wireframe, design & Prototyping
-- User Research
-- Figma, InVision, Marvel
-- HTML, CSS
-- JavaScript
+ - Low to High fidelity wireframe, design & Prototyping
+ - User Research
+ - Figma, InVision, Marvel
+ - HTML, CSS
+ - JavaScript
+
 
 
 - 🔭 I’m currently working on a personal project and occasionaly on [frontendmentor.io](https://www.frontendmentor.io/) .
 - 🌱 I’m currently learning UI/UX Design and web-development
 - 📫 How to reach me: 
+- 
 
 
 <!--
