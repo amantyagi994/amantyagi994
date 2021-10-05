@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/assets/Twitter%20header%20-%201.png">
 
-# Hellooo world! Welcome to Aman Tyagi's Github Profile
+# Hellooo world! Welcome to Aman's Github Profile
 
 ### I'm a Front-end web developer | UI/UX Designer from India
 
