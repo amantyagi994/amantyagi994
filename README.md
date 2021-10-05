@@ -40,7 +40,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amantyagi994&custom_title=Aman__Tyagi's%20Contribution%20Graph&bg_color=133462&color=D8AB56&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amantyagi994&custom_title=Aman__Tyagi's%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
