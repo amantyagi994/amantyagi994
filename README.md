@@ -35,8 +35,6 @@
 
 
 [![GitHub AmanTyagi](https://img.shields.io/github/followers/amantyagi994?label=follow&style=social)](https://github.com/amantyagi994)
-
-
 ![profile count](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
 
 
@@ -48,7 +46,10 @@
 
 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255)
+<!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255) -->
+
+### Playlist on Spotify
+
 <br/>
 <a href="https://open.spotify.com/user/wn2dn4pw1tahyxg1jpj4r2lpm"/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=wn2dn4pw1tahyxg1jpj4r2lpm&count=6" alt="Spotify" />
