@@ -17,7 +17,8 @@
  -->
  
  
-![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/amantyagi994?label=follow&style=social)](https://github.com/amantyagi994)&nbsp
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/amantyagi994?label=follow&style=social)](https://github.com/amantyagi994)
+
 
 ![profile count](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
 
