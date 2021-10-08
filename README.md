@@ -6,8 +6,10 @@
 
 ## 🤵 About Me
 
+- 👦 My name is Aman Tyagi
+- 🗺️ I'm from India
 - 👨‍💻 I'm a Front-end web developer | UI/UX Designer 🎨 from India
-- 🔭 I’m currently working on a personal project and comepleting challenges on [frontendmentor.io](https://www.frontendmentor.io/) .
+- 🔭 I’m currently working on a personal project and comepleting challenges on [frontendmentor.io](https://www.frontendmentor.io/)
 - 🌱 I’m currently learning UI/UX Design and web-development
 
 <!-- - 📫 How to reach me:  -->
