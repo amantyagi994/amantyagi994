@@ -1,10 +1,10 @@
 
-# Hellooo world! Welcome to Aman's Github Profile
+# 👋 Hellooo world! Welcome to Aman's Github Profile
 
 <img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/assets/Twitter%20header%20-%201.png">
 
 
-## About Me
+## 🤵 About Me
 
 - 👨‍💻 I'm a Front-end web developer | UI/UX Designer 🎨 from India
 - 🔭 I’m currently working on a personal project and comepleting challenges on [frontendmentor.io](https://www.frontendmentor.io/) .
@@ -13,7 +13,7 @@
 <!-- - 📫 How to reach me:  -->
 
 
-## SKills
+## 🤹‍♂️ SKills
 
  - Low to High fidelity wireframe, design & Prototyping
  - User Research
@@ -33,7 +33,7 @@
 -->
 
 
-## Github Stats
+## 📊 Github Stats
  
 [![](https://github-readme-stats.vercel.app/api?username=amantyagi994&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,16 +49,16 @@
 <!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255) -->
 
 
-## Followers
+## 🙋‍♀️ Followers
 
 [![GitHub AmanTyagi](https://img.shields.io/github/followers/amantyagi994?label=follow&style=social)](https://github.com/amantyagi994)
 
-## Profile views
+## 👀 Profile views
 
 ![profile count](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
 
 
-## Playlist on Spotify
+## 🎧 Playlist on Spotify
 
 <br/>
 <a href="https://open.spotify.com/user/wn2dn4pw1tahyxg1jpj4r2lpm"/>
