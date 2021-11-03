@@ -23,6 +23,7 @@
  - HTML, CSS
  - JavaScript
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi994&layout=compact&show_icons=true&theme=algolia)](https://github.com/amantyagi994)
 
 
 <!--
