@@ -23,8 +23,9 @@
  - HTML, CSS
  - JavaScript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi994&layout=compact&show_icons=true&theme=algolia)](https://github.com/amantyagi994)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi994&layout=compact&show_icons=true&theme=algolia)](https://github.com/amantyagi994) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi994&layout=compact&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/amantyagi994)
 
 <!--
 - 👯 I’m looking to collaborate on ...
