@@ -18,8 +18,7 @@
 ## 🤹‍♂️ SKills
 
  - Low to High fidelity wireframe, design & Prototyping
-<!--  - User Research -->
- - Figma, InVision, Marvel
+ - Figma, Adobe XD
  - HTML, CSS
  - JavaScript
 
