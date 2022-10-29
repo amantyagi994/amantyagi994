@@ -60,12 +60,12 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
 
-
+<!-- 
 ## 🎧 Playlist on Spotify
 
 <br/>
 <a href="https://open.spotify.com/user/wn2dn4pw1tahyxg1jpj4r2lpm"/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=wn2dn4pw1tahyxg1jpj4r2lpm&count=6" alt="Spotify" />
-</a>
+</a> -->
 
 
