@@ -9,9 +9,10 @@
 - 👦 My name is Aman Tyagi,
 - 🗺️ I'm from India 🇮🇳,
 - 👨‍💻 I'm a Product | UI/UX Designer🎨,
-<!-- - 🔭 I’m currently working on a personal project and completing challenges on [frontendmentor.io](https://www.frontendmentor.io/) -->
 - 🔭 I’m working as a Product | UX/UI Designer at Brainalive Research Pvt. Ltd.,
 - 🌱 I’m currently learning UI/UX Design and web-development.
+<!-- - 🔭 I’m currently working on a personal project and completing challenges on [frontendmentor.io](https://www.frontendmentor.io/) -->
+
 
 <!-- - 📫 How to reach me:  -->
 
