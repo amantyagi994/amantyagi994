@@ -1,5 +1,5 @@
 
-# 👋 Hellooo world! Welcome to Aman's Github Profile
+# 👋 Hellooo world! Welcome to my Github Profile
 
 <img src="https://raw.githubusercontent.com/amantyagi994/amantyagi994/main/assets/Twitter%20header%20-%201.png">
 
@@ -8,13 +8,7 @@
 
 - 👦 My name is Aman Tyagi,
 - 🗺️ I'm from India 🇮🇳,
-- 👨‍💻 I'm a Product | UI/UX Designer🎨,
-- 🔭 I’m working as a Product | UX/UI Designer at Brainalive Research Pvt. Ltd.,
-- 🌱 I’m currently learning UI/UX Design and web-development.
-<!-- - 🔭 I’m currently working on a personal project and completing challenges on [frontendmentor.io](https://www.frontendmentor.io/) -->
-
-
-<!-- - 📫 How to reach me:  -->
+- 👨‍💻 I'm a Product | UI/UX Designer🎨, working with Brainalive Research Pvt. Ltd.
 
 
 ## 🤹‍♂️ SKills
@@ -24,18 +18,8 @@
  - HTML, CSS
  - JavaScript
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi994&layout=compact&show_icons=true&theme=algolia)](https://github.com/amantyagi994) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi994&layout=compact&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/amantyagi994)
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## 📊 Github Stats
@@ -50,24 +34,14 @@
  <br/>
 
 
-
-<!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VZLNEZRlZJG8Ggd04e25U?si=9d2daea1a3494255) -->
-
-
 ## 🙋‍♀️ Followers
 
 [![GitHub AmanTyagi](https://img.shields.io/github/followers/amantyagi994?label=follow&style=social)](https://github.com/amantyagi994)
+
 
 ## 👀 Profile views
 
 ![profile count](https://komarev.com/ghpvc/?username=amantyagi994&color=blueviolet&style=plastic)
 
-<!-- 
-## 🎧 Playlist on Spotify
-
-<br/>
-<a href="https://open.spotify.com/user/wn2dn4pw1tahyxg1jpj4r2lpm"/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=wn2dn4pw1tahyxg1jpj4r2lpm&count=6" alt="Spotify" />
-</a> -->
 
 
