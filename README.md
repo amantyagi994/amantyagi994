@@ -31,7 +31,7 @@
 
  <br/>
 <img alt="Aman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amantyagi994&custom_title=Aman__Tyagi's%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" />
-To get yourself a graph like this  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">click here</a>
+To get yourself a graph like this  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">click here</a>
 
 ## 🙋‍♀️ Followers
 
